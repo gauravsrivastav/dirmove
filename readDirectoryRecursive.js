@@ -1,3 +1,8 @@
+
+/*
+  Author: Gaurav Srivastava
+  github: https://github.com/gauravsrivastav
+*/
 var fs = require('fs');
 var path = require('path');
 const { execSync, exec } = require('child_process');
